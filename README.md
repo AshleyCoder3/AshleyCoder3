@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# ** Hello fellow wanders!! **
+## I'm Ashley, I'm a Full stack developer
+
 <!--
 **AshleyCoder3/AshleyCoder3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +44,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# Current Project
+# Current Project 
 
-![repo stats for laarze studios](https://github.com/GodlyProject?username=AshleyCoder3&repo=GodlyProject&theme=aura&icon_color=F8D866&hide_border=false&show_icons=true)
+# Ways to reach me
+
 
