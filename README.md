@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on [GodlyProject](https://github.com/GodlyProject) 
+- 🌱 I’m currently learning Swift.
+- 💬 Ask me about Type 1 Diabetes
+- 📫 How to reach me: ***Look to the beast below*** 
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I Love Doctor Who
 
 ![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshleyCoder3&&count_private=true&show_icons=true&theme=aura)
 
