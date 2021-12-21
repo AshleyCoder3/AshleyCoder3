@@ -48,4 +48,14 @@ Here are some ideas to get you started:
 
 # Ways to reach me
 
+#### You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. The best way to reach me is via [e-mail](mailto:burns.ashley331@gmail.com)
 
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/ashburns2015
+[2]: https://www.linkedin.com/in/ashley-burn/
