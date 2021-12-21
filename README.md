@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 # My Tech Stack
 
-![](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+![](https://img.shields.io/badge/MacOS-ff1493?style=for-the-badge&logo=macos&logoColor=white)
 ![](https://img.shields.io/badge/Windows-0078d6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white)
