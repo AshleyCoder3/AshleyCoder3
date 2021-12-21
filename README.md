@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=blue)
 ![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Nodemon-76d04b?style=for-the-badge&logo=nodemon&logoColor=black)
