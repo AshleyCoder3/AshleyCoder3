@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=mongodb&logoColor=white)
 
-# Current Project 
+<!-- # Current Project -->
 
 # Ways to reach me
 
-#### You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. The best way to reach me is via [e-mail](mailto:burns.ashley331@gmail.com)
+#### You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. The best way to reach me is via [e-mail](mailto:burns.ashley331@gmail.com).
 
 <!-- Icons -->
 
