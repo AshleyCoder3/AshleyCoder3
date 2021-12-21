@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [GodlyProject](https://github.com/GodlyProject) 
 - 🌱 I’m currently learning Swift.
 - 💬 Ask me about Type 1 Diabetes
-- 📫 How to reach me: ***Look to the beast below*** 
+- 📫 How to reach me: ***[Look to the beast below](#ways-to-reach-me)***
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I Love Doctor Who
 
