@@ -55,14 +55,10 @@ Here are some ideas to get you started:
 
 # Ways to reach me
 
-#### You can find me on [![LinkedIn][2.2]][2]. The best way to reach me is via [e-mail](mailto:burns.ashley331@gmail.com).
+#### You can find me on [![LinkedIn][1.1]][1]. The best way to reach me is via [e-mail](mailto:burns.ashley331@gmail.com).
 
 <!-- Icons -->
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-[1.2]: 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: 
-[2]: https://www.linkedin.com/in/ashley-burn/
+<!-- Links to your social media accounts --> 
+[1]: https://www.linkedin.com/in/ashley-burn/
