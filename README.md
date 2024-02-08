@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [GodlyProject](https://github.com/GodlyProject) 
-- 🌱 I’m currently learning Swift.
-- 💬 Ask me about Type 1 Diabetes
+- 🔭 I’m currently working on [GodlyProject](https://github.com/GodlyProject).
+- 🌱 I’m currently learning ISTBQ foundation.
+- 💬 Ask me about Type 1 Diabetes.
 - 📫 How to reach me: ***[Look to the beast below](#ways-to-reach-me)***
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I Love Doctor Who
+- ⚡ Fun fact: I Love Doctor Who.
 
 ![Ashley's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshleyCoder3&&count_private=true&show_icons=true&theme=aura)
 
@@ -55,14 +55,14 @@ Here are some ideas to get you started:
 
 # Ways to reach me
 
-#### You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]. The best way to reach me is via [e-mail](mailto:burns.ashley331@gmail.com).
+#### You can find me on [![LinkedIn][2.2]][2]. The best way to reach me is via [e-mail](mailto:burns.ashley331@gmail.com).
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/ashburns2015
+[1]: 
 [2]: https://www.linkedin.com/in/ashley-burn/
