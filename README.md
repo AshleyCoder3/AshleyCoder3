@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 #### You can find me on [![LinkedIn][1.1]][1]. The best way to reach me is via [e-mail](mailto:burns.ashley331@gmail.com).
 
 <!-- Icons -->
-[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.1]: https://i.stack.imgur.com/gVE0j.png
 
 <!-- Links to your social media accounts --> 
 [1]: https://www.linkedin.com/in/ashley-burn/
