@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on [GodlyProject](https://github.com/GodlyProject).
-- 🌱 I’m currently learning ISTBQ foundation.
+<!-- - 🔭 I’m currently working on [GodlyProject](https://github.com/GodlyProject). -->
+- 🌱 I’m currently refreshing my skills and searching for work.
 - 💬 Ask me about Type 1 Diabetes.
 - 📫 How to reach me: ***[Look to the beast below](#ways-to-reach-me)***
 - 😄 Pronouns: She/Her
@@ -31,24 +31,29 @@ Here are some ideas to get you started:
 # My Tech Stack
 
 ![](https://img.shields.io/badge/MacOS-000000?style=plastic&logo=apple&logoColor=A2AAAD)
-![](https://img.shields.io/badge/Windows-000000?style=plastic&logo=windows&logoColor=0078D6)
+![](https://img.shields.io/badge/Linux-000000?style=plastic&logo=linux&logoColor=#FCC624)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/VS_Code-000000?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+<!-- Front end -->
 ![](https://img.shields.io/badge/HTML-000000?style=plastic&logo=html5&logoColor=E34F26)
 ![](https://img.shields.io/badge/CSS-000000?style=plastic&logo=css3&logoColor=1572B6)
 ![](https://img.shields.io/badge/JavaScript-000000?style=plastic&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/React-20232a?style=plastic&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Python-000000?style=plastic&logo=python&logoColor=3776AB)
-![](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/JSON-000000?style=plastic&logo=json&logoColor=blue)
+<!-- ![](https://img.shields.io/badge/Python-000000?style=plastic&logo=python&logoColor=3776AB) -->
+<!-- Backend -->
+![](https://img.shields.io/badge/Go-000000?style=plastic&logo=go&logoColor=#00ADD8)
 ![](https://img.shields.io/badge/Express-000000?style=plastic&logo=express&logoColor=white)
-![](https://img.shields.io/badge/Node.js-000000style=plastic&logo=node.js&logoColor=339933)
+![](https://img.shields.io/badge/Node.js-000000style=plastic&logo=nodedotjs&logoColor=339933)
 ![](https://img.shields.io/badge/Nodemon-000000?style=plastic&logo=nodemon&logoColor=76D04B)
+![](https://img.shields.io/badge/SQLite-000000?style=plastic&logo=sqlite&logoColor=003B57)
+
+<!-- Other -->
 ![](https://img.shields.io/badge/Netlify-000000?style=plastic&logo=netlify&logoColor=76D04B)
 ![](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-000000?style=plastic&logo=heroku&logoColor=430098)
-![](https://img.shields.io/badge/SQLite-000000?style=plastic&logo=sqlite&logoColor=003B57)
 ![](https://img.shields.io/badge/Postman-000000?style=plastic&logo=postman&logoColor=FF6C37)
+![](https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/JSON-000000?style=plastic&logo=json&logoColor=blue)
 
 <!-- # Current Project -->
 ![Beast Below](https://github.com/AshleyCoder3/AshleyCoder3/blob/main/TheBeastBelow.01.jpg)
